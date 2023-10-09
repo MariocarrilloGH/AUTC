@@ -1,1 +1,0 @@
-Producto (Estrella (Simbolo 'a')) (Estrella (Simbolo 'b'))
